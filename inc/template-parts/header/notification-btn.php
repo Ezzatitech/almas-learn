@@ -1,0 +1,2 @@
+<a target="_blank" href="<?php echo $options['opt-text-natif-btn-link']; ?>" class="notification-bar-btn" style="background: <?php echo $options['opt-color-natof-btn-bg']; ?>; color: <?php echo $options['opt-color-natof-btn-text']; ?>;"><?php echo $options['opt-text-natif-btn']; ?></a>
+<?php $options = get_option( 'my_option_almaslearn' ); ?>
